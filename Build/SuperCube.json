@@ -1,7 +1,7 @@
 {
 "companyName": "SuperCube",
 "productName": "AnotherCube",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "SuperCube.data.unityweb",
 "wasmCodeUrl": "SuperCube.wasm.code.unityweb",
 "wasmFrameworkUrl": "SuperCube.wasm.framework.unityweb",

@@ -3,7 +3,7 @@ var urlsToCache = [
 	'/pwa-unity/',
 	'Build/SuperCube.data.unityweb',
 	'Build/SuperCube.wasm.code.unityweb',
-	'Build/SuperCube.wasm.framework.unityweb'
+	'Build/SuperCube.wasm.framework.unityweb',
 	'Build/UnityLoader.js',
 	'Build/SuperCube.json'
 ];
